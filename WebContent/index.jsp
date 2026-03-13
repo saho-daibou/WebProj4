@@ -21,6 +21,5 @@
 		<s:submit value="問い合わせ"/>
 	</s:form>
 	
-	
 </body>
 </html>
